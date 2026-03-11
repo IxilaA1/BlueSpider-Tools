@@ -50,20 +50,3 @@
 - Linux recent version.
 <br><br>
 </p>
-
-<h1 align="center">Installation</h1>
-
-<a href="https://github.com/IxilaA1/BlueSpider-Tools.git">Downloads "BLUE_SPIDER_free.zip" Here</a>
-<p>
-  
-1 - Download the .zip folder.
-2 - Unzip the folder.
-3 - Launch "Setup.py".
-
-text
-Or
-1 - Open a terminal.
-2 - Write "git clone https://github.com/IxilaA1/BlueSpider-Tools.git"
-3 - Write "cd BLUE_SPIDER"
-4 - Write "git pull"
-5 - Write "python Setup.py"
