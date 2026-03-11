@@ -1,4 +1,3 @@
-<img align="center" src="Img/BlueSpider-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
 
