@@ -32,13 +32,7 @@
 
 <h1 align="center">Tools</h1>
 
-<p align="center">
-  <img src="Img/BlueSpider.png" width="49%"> 
-  <img src="Img/BlueSpider-2.png" width="49%"> 
-  <img src="Img/BlueSpider-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
-  <br><br>
-</p>
+
 
 <h1 align="center">Requirements</h1>
 
