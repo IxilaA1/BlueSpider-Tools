@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-   <a href="https://guns.lol>GunsLol</a> ・ <a href="[https://discord.gg/example](https://discord.gg/mcR7PCdWWf)">Discord</a>
+   <a href="https://guns.lol/ixila1</a> ・ <a href="[https://discord.gg/example](https://discord.gg/mcR7PCdWWf)">Discord</a>
 </p>
 
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/IxilaA1">IxilaA1</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/ixila1">IxilaA1</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
