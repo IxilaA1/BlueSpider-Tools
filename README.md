@@ -1,7 +1,7 @@
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-  <img src="image.png" alt="Logo Multi-Tools" width="200">
+  <img src="https://raw.githubusercontent.com/IxilaA1/BlueSpider-Tools/main/image.png" alt="Blue Spider Logo" width="1000">
 </p>
 
 <p align="center">
