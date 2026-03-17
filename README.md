@@ -50,5 +50,7 @@
 <p>
 - Latest version of <a href="https://www.python.org/downloads/">Python</a>.<br>
 - Linux recent version.
+  
+  License: This project is proprietary. See the LICENSE file for more details. (c) 2026 IxilaA1.
 <br><br>
 </p>
