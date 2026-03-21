@@ -1,0 +1,1 @@
+This project is proprietary. See the LICENSE file for more details. (c) 2026 IxilaA1.
